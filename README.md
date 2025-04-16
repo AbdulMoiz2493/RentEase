@@ -60,7 +60,14 @@ cd RentEase
    ```bash
    npm install
    ```
-3. Start the server:
+3. Set up environment variables by creating a `.env` file in the `server/` directory:
+   ```env
+   PORT=4000
+   MONGO_URI='mongodb://localhost:27017/rent-ease'
+   JWT_SECRET='your_jwt_secret'
+   NODE_ENV="development"
+   ```
+4. Start the server:
    ```bash
    npm run dev
    ```
