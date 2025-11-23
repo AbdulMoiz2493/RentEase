@@ -1,4 +1,4 @@
-# RentEase - Simplifying Rentals with Ease
+# RentEase - Simplifying Rentals with Ease 
 
 **Your go-to platform for smart and secure item rentals.**
 
